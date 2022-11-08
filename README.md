@@ -59,5 +59,6 @@ Utilizar los comandos git para descargar el proyecto:
 Abrir Xcode y seleccionar la opción **Abrir un proyecto o archivo**
 
 ***Ejecutar el proyecto*** 
+
 Una vez abierto dirigirse a la barra de herramienta de xcode y ejecute los test (*Product -> Test*)
 
