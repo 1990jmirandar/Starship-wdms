@@ -48,6 +48,7 @@ A continuación, para cada input propuesto más arriba, el código debe ser capa
 ## Pasos para ejecutar el proyecto
 
 ***Descargar el proyecto*** 
+
 Ubicarse en la ruta donde se va a descargar el proyecto mediante comando CD (window, linux o mac)
 
 Utilizar los comandos git para descargar el proyecto:
